@@ -1,5 +1,7 @@
 # DA6401_A3
 
+Wandb report link: [https://api.wandb.ai/links/jayagowtham-indian-institute-of-technology-madras/n5iyxtmf](https://api.wandb.ai/links/jayagowtham-indian-institute-of-technology-madras/n5iyxtmf)
+
 ## Steps to Reproduce
 
 ### Training Example
